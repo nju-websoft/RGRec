@@ -71,5 +71,5 @@ If you use this work or code, please kindly cite the following paper:
 
 ## Contacts
 
-If you have any questions, please feel free to contact [Xinze Lyu](mailto:xinzelyu@outlook.com) and [Guangyao Li](mailto:gyli@gmail.com) , we will reply it as soon as possible.
+If you have any questions, please feel free to contact [Guangyao Li](mailto:gyli@gmail.com) , we will reply it as soon as possible.
 
