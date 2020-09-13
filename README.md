@@ -55,22 +55,9 @@ During the construction of RGRec, we obtain much inspiration from  [KGCN](https:
 
 ## Citation
 
-If you use this work or code, please kindly cite the following paper:
-
-```
-@article{RGRec,
-  author    = {},
-  title     = {},
-  journal   = {},
-  volume    = {},
-  number    = {},
-  pages     = {},
-  year      = {},
-  url       = {}
-}
-```
+This part will be updated soon.
 
 ## Contacts
 
-If you have any questions, please feel free to contact [Xinze Lyu](xinzelyu@outlook.com) and [Guangyao Li](gyli.nju@gmail.com) , we will reply it as soon as possible.
+If you have any questions, please feel free to contact [Xinze Lyu](mailto:xinzelyu@outlook.com) and [Guangyao Li](mailto:gyli@gmail.com) , we will reply it as soon as possible.
 
