@@ -55,7 +55,19 @@ During the construction of RGRec, we obtain much inspiration from  [KGCN](https:
 
 ## Citation
 
-This part will be updated soon.
+If you use this work or code, please kindly cite the following paper:
+
+```
+@article{RGRec,
+  author    = {Xinze Lyu and
+  			       Guangyao Li and
+  			       Jiacheng Huang and
+  			       Wei Hu},
+  title     = {Rule-Guided Graph Neural Networks for Recommender Systems},
+  booktitle   = {ISWC},
+  year      = {2020}
+}
+```
 
 ## Contacts
 
