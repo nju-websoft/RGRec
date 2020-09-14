@@ -51,21 +51,18 @@ This project is licensed under the GPL License - see the [LICENSE](https://githu
 
 ## Miscellaneous
 
-During the construction of RGRec, we obtain much inspiration from  [KGCN](https://github.com/hwwang55/KGCN), and we feel a great honor to make an innovation in the foundation of [this work](https://github.com/hwwang55/KGCN).
+During the construction of RGRec, we obtain much inspiration from [KGCN](https://github.com/hwwang55/KGCN), and we feel a great honor to make an innovation in the foundation of [this work](https://github.com/hwwang55/KGCN).
 
 ## Citation
 
 If you use this work or code, please kindly cite the following paper:
 
 ```
-@article{RGRec,
-  author    = {Xinze Lyu and
-              Guangyao Li and
-              Jiacheng Huang and
-              Wei Hu},
+@inproceedings{RGRec,
+  author    = {Xinze Lyu and Guangyao Li and Jiacheng Huang and Wei Hu},
   title     = {Rule-Guided Graph Neural Networks for Recommender Systems},
-  booktitle   = {ISWC},
-  year      = {2020}
+  booktitle = {ISWC},
+  year      = {2020},
 }
 ```
 
