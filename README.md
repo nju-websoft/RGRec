@@ -26,7 +26,7 @@ src/
 ### Dependencies
 
 * Python 3.x (tested on Python 3.6)
-* Pytorch 1.x(tested on Pytorch 1.3)
+* Pytorch 1.x (tested on Pytorch 1.3)
 * Numpy
 * Scipy
 * Sklearn
@@ -40,7 +40,7 @@ src/
 
 ## Experiment
 
-We conduct experiments on three real-world datasets: [Last.FM](https://github.com/hwwang55/KGCN/tree/master/data/music), [MovieLens-1M](https://github.com/hwwang55/RippleNet/tree/master/data/movie) and [Dianping-Food](https://github.com/hwwang55/KGNN-LS/tree/master/data/restaurant). And our project only provides MovieLens-1M now, other datasets can be downloaded [here](https://1drv.ms/u/s!AqA_HIF7WyFosB3mBny-Zda23ZL3?e=GfCIOv).
+We conduct experiments on three real-world datasets: [Last.FM](https://github.com/hwwang55/KGCN/tree/master/data/music), [MovieLens-1M](https://github.com/hwwang55/RippleNet/tree/master/data/movie) and [Dianping-Food](https://github.com/hwwang55/KGNN-LS/tree/master/data/restaurant). Currently, our project only provides MovieLens-1M, other datasets can be downloaded [here](https://1drv.ms/u/s!AqA_HIF7WyFosB3mBny-Zda23ZL3?e=GfCIOv).
 
 The details of experiments can be found in the corresponding section of the paper.
 
